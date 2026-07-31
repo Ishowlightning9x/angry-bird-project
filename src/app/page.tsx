@@ -6,6 +6,7 @@ import HeartGarden from "./components/HeartGarden";
 import SecretLetters from "./components/SecretLetter";
 import PromiseSection from "./components/PromiseSection";
 import FinalSurprise from "./components/FinalSurprise";
+import PhotoGallery from "./component/PhotoGallery";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <SecretLetters />
       <PromiseSection />
       <FinalSurprise />
+      <PhotoGallery />
 
       <footer className="py-8 text-center text-xs text-gray-400 border-t border-pink-100 bg-white">
         Made with ❤️ by Shwet for Angry Bird • {new Date().getFullYear()}
