@@ -5,9 +5,8 @@ import ReasonsSection from "./components/ReasonsSection";
 import HeartGarden from "./components/HeartGarden";
 import SecretLetters from "./components/SecretLetter";
 import PromiseSection from "./components/PromiseSection";
+import PhotoGallery from "./components/PhotoGallery";
 import FinalSurprise from "./components/FinalSurprise";
-import PhotoGallery from "./component/PhotoGallery";
-
 export default function Home() {
   return (
     <main className="min-h-screen">
