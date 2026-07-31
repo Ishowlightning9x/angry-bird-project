@@ -18,7 +18,7 @@ export default function HeroSection() {
         </span>
 
         <h1 className="font-serif text-5xl md:text-7xl font-bold text-[var(--color-primary)] mb-6 leading-tight">
-          Happy Girlfriend Day ❤️
+          Happy Girlfriend Day 🤍
         </h1>
 
         <p className="font-serif text-xl md:text-2xl text-[var(--color-accent)] font-light italic mb-8">
