@@ -17,9 +17,8 @@ export default function Home() {
       <HeartGarden />
       <SecretLetters />
       <PromiseSection />
-      <FinalSurprise />
       <PhotoGallery />
-
+      <FinalSurprise />
       <footer className="py-8 text-center text-xs text-gray-400 border-t border-pink-100 bg-white">
         Made with ❤️ by Shwet for Angry Bird • {new Date().getFullYear()}
       </footer>
