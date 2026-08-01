@@ -4,43 +4,43 @@ import React, { useState } from 'react';
 const cardData =[
   { 
     id: 1, 
-    img: '/photo1.jpeg', 
+    img: '/photo1.jpg.jpeg', 
     title: 'Kitni pyaari smile hai🥰', 
     subtitle: 'Tap to flip💖' 
   },
   { 
     id: 2, 
-    img: '/photo2.jpeg', 
+    img: '/photo2.jpg.jpeg', 
     title: 'Khule hue baalon mein kitni acchi lgti hai na?', 
     subtitle: 'Click to view💓 ' 
   },
   { 
     id: 3, 
-    img: '/photo3.jpeg', 
+    img: '/photo3.jpg.jpeg', 
     title: 'Smile kitni pyaari hai yrr✨️', 
     subtitle: 'Tap to reveal 📸' 
   },
   { 
     id: 4, 
-    img: '/photo4.jpeg', 
+    img: '/photo4.jpg.jpeg', 
     title: 'how can someone look this adorable ❤️', 
     subtitle: 'Tap to see 💖' 
   },
   { 
     id: 5, 
-    img: '/photo5.jpeg', 
+    img: '/photo5.jpg.jpeg', 
     title: 'Simple but cute smile😊', 
     subtitle: 'Tap to see photo 🌟' 
   },
   { 
     id: 6, 
-    img: '/photo6.jpeg', 
+    img: '/photo6.jpg.jpeg', 
     title: 'Admirable 😍', 
     subtitle: 'Click to unveil💞' 
   },
   { 
     id: 7, 
-    img: '/photo7.jpeg', 
+    img: '/photo7.jpg.jpeg', 
     title: 'Final Surprise ✨', 
     subtitle: 'Tap to view 💌' 
   },
